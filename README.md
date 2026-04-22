@@ -2,17 +2,22 @@
   <img src="./kryptokat.png" alt="kryptokat" width="400">
 </p>
 
-# Hey, I'm kryptokat 🐈‍⬛
+<h1 align="center">Hey, I'm kryptokat 🐈‍⬛</h1>
 
-I build purple team tools for AI security.
+<p align="center">
+  I build purple team tools for AI security.<br>
+  Offensive and defensive tooling for the LLM threat landscape.
+</p>
 
-Offensive and defensive tooling for the LLM threat landscape.
+<p align="center">
+  🎯 AI pentesting in training<br>
+  🔍 AI & LLM bug bounty<br>
+  🧠 Co-founder, <a href="https://ndhack.org">Neurodiverse Hackers</a><br>
+  🏴‍☠️ DEF CON
+</p>
 
-🎯 AI pentesting in training  
-🔍 AI & LLM bug bounty  
-🧠 Co-founder, [Neurodiverse Hackers](https://ndhack.org)  
-🏴‍☠️ DEF CON
+<hr>
 
----
-
-Always looking for new opportunities.
+<p align="center">
+  Always looking for new opportunities.
+</p>
