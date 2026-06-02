@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./cf.jpg" alt="Charlotte" width="400">
-</p>
 <h1 align="center">Hi, I'm Charlotte</h1>
 <p align="center">
   I build purple team tools for AI security.<br>
