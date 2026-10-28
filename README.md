@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Charlotte</h1>
 <p align="center">
-  I build purple team tools for AI security.<br>
-  Offensive and defensive tooling for the LLM threat landscape.
+  My work focuses on AI security.<br>
+  I build offensive and defensive tooling for the LLM threat landscape.
 </p>
 <p align="center">
   🛡️ AI Red Team Researcher<br>
