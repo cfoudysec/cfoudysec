@@ -4,7 +4,7 @@
   I build offensive and defensive tooling for the LLM threat landscape.
 </p>
 <p align="center">
-  🛡️ AI Red Team Researcher<br>
+  🛡️ AI Red Team<br>
   🎯 AI & LLM Security Researcher<br>
   🔍 AI & LLM bug bounty<br>
   🧠 Co-founder, <a href="https://ndhack.org">Neurodiverse Hackers</a><br>
